@@ -19,6 +19,7 @@
 	"homepage": "https://github.com/PrayDreamCat/components-uniapp#readme",
 	"dependencies": {
 		"image-tools": "^1.4.0",
+		"trtc-js-sdk": "^4.15.22",
 		"uview-ui": "^2.0.36"
 	},
 	"uni-app": {
