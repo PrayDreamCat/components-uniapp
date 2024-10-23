@@ -71,7 +71,7 @@
 	"vueVersion": "2",
 	"h5": {
 		"devServer": {
-			"https": true,
+			"https": false,
 			"proxy": {
 				"/dev-api": {
 					"target": "123",
